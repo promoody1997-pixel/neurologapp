@@ -1,6 +1,6 @@
 // Top-level build file
 plugins {
-    // نستخدم إصدارات حديثة متوافقة مع Gradle 8
+    // هذه الإصدارات (8.2.0 و 1.9.20) هي التي تدعم Gradle 8 ولا تسبب خطأ HasConvention
     id 'com.android.application' version '8.2.0' apply false
     id 'org.jetbrains.kotlin.android' version '1.9.20' apply false
 }

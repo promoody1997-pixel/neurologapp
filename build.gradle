@@ -1,6 +1,6 @@
 // Top-level build file
 plugins {
-    // هذه النسخ متوافقة 100% مع Gradle 8 الموجود على السيرفر
+    // نستخدم نسخاً متوافقة تماماً مع Gradle 8.2
     id 'com.android.application' version '8.2.0' apply false
     id 'org.jetbrains.kotlin.android' version '1.9.20' apply false
 }

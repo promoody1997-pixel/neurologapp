@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    // لاحظ: لم نضف kotlin-android-extensions لأنه يسبب الخطأ
 }
 
 android {

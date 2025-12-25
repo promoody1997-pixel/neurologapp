@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyNewApp" // يمكنك تغيير الاسم هنا
+rootProject.name = "FreshStartApp"
 include ':app'

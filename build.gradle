@@ -1,6 +1,6 @@
 // Top-level build file
 plugins {
-    // نستخدم AGP 8.2.0 لأنه مستقر جداً مع Java 17
+    // هذه النسخ متوافقة 100% مع Gradle 8 الموجود على السيرفر
     id 'com.android.application' version '8.2.0' apply false
     id 'org.jetbrains.kotlin.android' version '1.9.20' apply false
 }
